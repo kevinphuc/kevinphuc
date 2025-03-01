@@ -55,9 +55,9 @@ Here are some of the projects I’ve worked on:
 
 ## 🌐 Connect with Me  
 - **GitHub:** [github.com/kevinphuc](https://github.com/kevinphuc)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kevinphuc/)  
+- **LinkedIn:** [linkedin.com/in/kevinphuc](https://www.linkedin.com/in/kevinphuc/)  
 - **Email:** [kevinphuc.work@gmail.com]()
-- **X:** [Kevin](https://x.com/Kevin__Phuc)
+- **X:** [KevinPhuc](https://x.com/Kevin__Phuc)
 
 ---
 
